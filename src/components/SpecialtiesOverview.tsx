@@ -38,7 +38,7 @@ const SPECIALTIES: Specialty[] = [
     description:
       'Técnica asséptica humanizada respeitando a anatomia e o tempo de cada pessoa. Atendimento especial e afetuoso para recém-nascidos e bebês.',
     highlights: ['Primeiro brinquinho para bebês', 'Perfurações auriculares planejadas', 'Joias em titânio e ouro biocompatíveis'],
-    image: '/src/assets/images/furo_humanizado_baby_1793799529135.jpg',
+    image: '/assets/images/furo_humanizado_baby_1793799529135.jpg',
     alt: 'Primeiro brinquinho humanizado para bebê com cuidado acolhedor',
     whatsappLink: BUSINESS_INFO.whatsappLinks.furo,
   },
@@ -51,7 +51,7 @@ const SPECIALTIES: Specialty[] = [
     description:
       'Realce da curvatura e estrutura dos fios sem artificialidade. Técnicas de nanoblading fio a fio e alinhamento que valorizam sua expressão natural.',
     highlights: ['Nanopigmentação fio a fio hiper-realista', 'Brow Lamination modeladora', 'Design estratégico personalizado'],
-    image: '/src/assets/images/sobrancelhas_lamination_1793799530836.jpg',
+    image: '/assets/images/sobrancelhas_lamination_1793799530836.jpg',
     alt: 'Sobrancelhas alinhadas com textura e acabamento natural',
     whatsappLink: BUSINESS_INFO.whatsappLinks.sobrancelhas,
   },
